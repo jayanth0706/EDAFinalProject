@@ -62,11 +62,18 @@ Open FinalProject.ipynb in the Jupyter environment and run the analysis.
 Dataset
 Source: The dataset used for this project can either be included in the data/ folder or downloaded from an external source.
 Description: The dataset contains [add description here: e.g., sales data, customer demographics, etc.].
+
 Columns:
+
 Column 1: Description of column 1
+
 Column 2: Description of column 2
+
 Column 3: Description of column 3
+
 ... and so on.
+
+
 
 
 
