@@ -18,25 +18,25 @@ Project Structure
 The repository contains the following files and directories:
 
 ├── data/                     
-# Contains the dataset(s) used in the project
+Contains the dataset(s) used in the project
 
 ├── notebooks/                
-# Jupyter Notebooks used for analysis
+Jupyter Notebooks used for analysis
 
 ├── FinalProject.ipynb        
-# Main notebook with EDA steps
+Main notebook with EDA steps
 
 ├── images/                   
-# Images generated from analysis and plots
+Images generated from analysis and plots
 
 ├── src/                      
-# Any additional scripts or functions
+Any additional scripts or functions
 
 ├── README.md                 
-# This file
+This file
 
 └── .gitignore                
-# Git ignore file
+Git ignore file
 
 
 Installation
