@@ -17,13 +17,28 @@ The EDA Final Project aims to explore, visualize, and draw insights from a datas
 Project Structure
 The repository contains the following files and directories:
 
-├── data/                     # Contains the dataset(s) used in the project
-├── notebooks/                # Jupyter Notebooks used for analysis
-├── FinalProject.ipynb        # Main notebook with EDA steps
-├── images/                   # Images generated from analysis and plots
-├── src/                      # Any additional scripts or functions
-├── README.md                 # This file
-└── .gitignore                # Git ignore file
+├── data/                     
+# Contains the dataset(s) used in the project
+
+├── notebooks/                
+# Jupyter Notebooks used for analysis
+
+├── FinalProject.ipynb        
+# Main notebook with EDA steps
+
+├── images/                   
+# Images generated from analysis and plots
+
+├── src/                      
+# Any additional scripts or functions
+
+├── README.md                 
+# This file
+
+└── .gitignore                
+# Git ignore file
+
+
 Installation
 To run this project, you'll need to have Python installed along with the necessary libraries. You can install the dependencies using pip and the requirements.txt file (if available) or install the libraries manually.
 
